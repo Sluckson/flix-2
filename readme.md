@@ -10,18 +10,18 @@
 
 #### BONUS
 
-- [- ] Trailers for popular movies are played automatically when the movie is selected (1 point).
+- [-] Trailers for popular movies are played automatically when the movie is selected (1 point).
   - [X] When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
-  - [ X] Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
-- [- ] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
+  - [X] Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
+- [-] Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
 - [ X] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
 - [ ] Add a rounded corners for the images using the Glide transformations. (1 point)
 
 ### App Walkthough GIF
 
 
-<img src="https://imgur.com/gallery/8s5UENl" width=250><br>
-<img src="https://imgur.com/gallery/rQRZKHp" width=250><br>
+<img src="https://im2.ezgif.com/tmp/ezgif-2-111c512c7959.gif" width=250><br>
+<img src="https://im2.ezgif.com/tmp/ezgif-2-73c155c67d5b.gif" width=250><br>
 
 ### Notes
 
