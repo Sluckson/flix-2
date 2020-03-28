@@ -21,7 +21,7 @@
 
 
 <img src="https://raw.githubusercontent.com/Sluckson/flix-2/master/Luckson-screencast-00012.gif" width=250><br><br><br>
-<p>Portrait</p>
+<p><font color="fuchsia">PORTRAIT.</font></p>
 <img src="https://raw.githubusercontent.com/Sluckson/flix-2/master/Luckson-screencast-00010.gif" width=250><br>
 
 ### Notes
