@@ -27,8 +27,9 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
-well I did not meet too much difficulty in the development of my app but I am proud to realize this work of art.
+
+
+
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
