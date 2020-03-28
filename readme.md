@@ -19,9 +19,10 @@
 
 ### App Walkthough GIF
 
+<p><font color="blue"><b>LANDSCAP.</b></font></p>
 
 <img src="https://raw.githubusercontent.com/Sluckson/flix-2/master/Luckson-screencast-00012.gif" width=250><br><br><br>
-<p><font color="fuchsia">PORTRAIT.</font></p>
+<p><font color="blue"><b>PORTRAIT.</b></font></p>
 <img src="https://raw.githubusercontent.com/Sluckson/flix-2/master/Luckson-screencast-00010.gif" width=250><br>
 
 ### Notes
