@@ -20,7 +20,8 @@
 ### App Walkthough GIF
 
 
-<img src="https://raw.githubusercontent.com/Sluckson/flix-2/master/Luckson-screencast-00012.gif" width=250><br>
+<img src="https://raw.githubusercontent.com/Sluckson/flix-2/master/Luckson-screencast-00012.gif" width=250><br><br><br>
+<p>Portrait</p>
 <img src="https://raw.githubusercontent.com/Sluckson/flix-2/master/Luckson-screencast-00010.gif" width=250><br>
 
 ### Notes
